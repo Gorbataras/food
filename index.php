@@ -14,5 +14,10 @@ $f3->route('GET /', function () {
     echo $view->render('views/home.html');
 });
 
+$f3 ->route('GET /breakfast', function (){
+    $view = new Template();
+    echo $view->render('views/breakfast.html');
+});
+
 //Run
 $f3->run();
