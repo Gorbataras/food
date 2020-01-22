@@ -1,0 +1,12 @@
+{
+  "name": "tgorbachevksiy/IT328/food",
+  "authors": [
+    {
+      "name": "Taras Gorbachevskiy",
+      "email": "Tgorbachevskiy@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
